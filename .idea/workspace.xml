@@ -12,7 +12,11 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="067df0fe-d4dd-4c60-bd05-570a356542c8" name="Default Changelist" comment="" />
+    <list default="true" id="067df0fe-d4dd-4c60-bd05-570a356542c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Cargo.toml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dillos/game/CMakeLists.txt" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Run perpendicular-rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="channel" value="DEFAULT" />
-      <option name="command" value="run --package perpendicular-rust --bin perpendicular-rust" />
+      <option name="command" value="run --package perpendicular-rust --bin perpendicular-rust leader" />
       <option name="allFeatures" value="false" />
       <option name="emulateTerminal" value="false" />
       <option name="backtrace" value="SHORT" />
@@ -51,11 +55,6 @@
       <envs />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
@@ -66,6 +65,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,26 +75,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603208350620</updated>
-      <workItem from="1603208351666" duration="2476000" />
+      <workItem from="1603208351666" duration="2766000" />
+      <workItem from="1603328250337" duration="11000" />
+      <workItem from="1603847996109" duration="2877000" />
+      <workItem from="1603863189434" duration="2486000" />
+      <workItem from="1604024960143" duration="21000" />
+      <workItem from="1604036180514" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="395" key="GridCell.Tab.0.bottom" timestamp="1603252040431">
-      <screen x="2560" y="349" width="2560" height="1440" />
+    <state x="1363" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603848772280">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1237" height="395" key="GridCell.Tab.0.bottom/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252040431" />
-    <state width="1237" height="395" key="GridCell.Tab.0.center" timestamp="1603252040431">
-      <screen x="2560" y="349" width="2560" height="1440" />
+    <state x="1363" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1603848772280" />
+    <state x="1698" y="458" width="424" height="479" key="FileChooserDialogImpl" timestamp="1604036199242">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1237" height="395" key="GridCell.Tab.0.center/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252040431" />
-    <state width="1237" height="395" key="GridCell.Tab.0.left" timestamp="1603252040431">
-      <screen x="2560" y="349" width="2560" height="1440" />
+    <state x="1698" y="458" width="424" height="479" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604036199242" />
+    <state width="1237" height="395" key="GridCell.Tab.0.bottom" timestamp="1603865675159">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1237" height="395" key="GridCell.Tab.0.left/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252040431" />
-    <state width="1237" height="395" key="GridCell.Tab.0.right" timestamp="1603252040431">
-      <screen x="2560" y="349" width="2560" height="1440" />
+    <state width="1237" height="395" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603865675159" />
+    <state width="1237" height="395" key="GridCell.Tab.0.bottom/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252349578" />
+    <state width="1237" height="395" key="GridCell.Tab.0.center" timestamp="1603865675159">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1237" height="395" key="GridCell.Tab.0.right/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252040431" />
+    <state width="1237" height="395" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603865675159" />
+    <state width="1237" height="395" key="GridCell.Tab.0.center/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252349577" />
+    <state width="1237" height="395" key="GridCell.Tab.0.left" timestamp="1603865675159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1237" height="395" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603865675159" />
+    <state width="1237" height="395" key="GridCell.Tab.0.left/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252349577" />
+    <state width="1237" height="395" key="GridCell.Tab.0.right" timestamp="1603865675159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1237" height="395" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603865675159" />
+    <state width="1237" height="395" key="GridCell.Tab.0.right/2560.349.2560.1440/0.0.2560.1440@2560.349.2560.1440" timestamp="1603252349577" />
   </component>
 </project>
